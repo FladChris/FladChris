@@ -10,6 +10,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FladChris&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FladChris&theme=tokyonight&hide_border=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=FladChris&icon=5&color=12)](https://visitcount.itsvg.in)
