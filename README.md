@@ -1,4 +1,10 @@
+### 🔧 About Me
+> Writing code, copying ancient code, and praying to the Omnissiah – my daily ritual.  
+> Do I understand the code? Maybe.  
+> May the Machine Spirit be merciful to it.  
+> *For the Emperor.*
 
+---
 ### socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-fladung-735217202) 
 ---
