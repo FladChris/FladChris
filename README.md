@@ -1,6 +1,5 @@
 ### 🔧 About Me
-> Writing code, copying ancient code, and praying to the Omnissiah – my daily ritual.  
-> Do I understand the code? Maybe.  
+> Writing code, copying ancient code, and praying to the Omnissiah – my daily ritual.   
 > May the Machine Spirit be merciful to it.  
 > *For the Emperor.*
 
