@@ -15,10 +15,14 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FladChris&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats-fladchris-projects.vercel.app/api/top-langs/?username=FladChris&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FladChris&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
