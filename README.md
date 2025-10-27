@@ -3,16 +3,22 @@
 > May the Machine Spirit be merciful to it.  
 > *For the Emperor.*
 
+[![Codewars-Badge](https://www.codewars.com/users/FladChris/badges/micro)](https://www.codewars.com/users/FladChris)
+
 ---
 ### socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-fladung-735217202) 
 
 ---
-### currently learning
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+### 🧠 Currently Learning
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
 
 ---
 ![Top Langs](https://github-readme-stats-fladchris-projects.vercel.app/api/top-langs/?username=FladChris&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
