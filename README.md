@@ -9,6 +9,16 @@
 ### socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-fladung-735217202) 
 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+
+
+![Top Langs](https://github-readme-stats-fladchris-projects.vercel.app/api/top-langs/?username=FladChris&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 ---
 ### 🧠 Currently Learning
 
@@ -18,16 +28,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 
-
-
-![Top Langs](https://github-readme-stats-fladchris-projects.vercel.app/api/top-langs/?username=FladChris&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
