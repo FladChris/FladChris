@@ -26,15 +26,15 @@ I'm Christian, a backend-focused developer building self-hosted tools, web apps 
 
 <sub>🔒 Private repositories – happy to show them on request.</sub>
 
-
-
-<!---
 ### 🌍 Open Source
 
 - **[paperless-telegram-bot](https://github.com/GeiserX/paperless-telegram-bot)** – manage Paperless-NGX documents via Telegram.
   My contribution: [let the uploader choose the document owner](https://github.com/GeiserX/paperless-telegram-bot/pulls?q=author%3AFladChris)
 
 ---
+
+<!---
+
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
