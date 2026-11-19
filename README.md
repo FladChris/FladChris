@@ -1,39 +1,42 @@
 ### About Me
 
-> Writing code, copying ancient code, and praying to the Omnissiah – my daily ritual.  
-> May the Machine Spirit be merciful to it.  
-> *For the Emperor.*
+> Writing code, copying ancient code, and praying to the Omnissiah – my daily ritual.
+> May the Machine Spirit be merciful to it. *For the Emperor.*
 
-I'm Christian, a developer focused on practical software, automation and web applications.
-
-Currently working with:
+I'm Christian, a backend-focused developer building self-hosted tools, web apps and game server plugins with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
-### Current Focus
+### 🔧 What I'm Building
 
-- Learning by building real projects
-- Contributing to open source
-- Working with Python, FastAPI, Svelte and Docker
-- Learning clean code, Git workflows and full-stack development through real projects, with a focus on backend development
+**HomeOfKitchen** 🔒 · *since March 2026* – a self-hosted recipe manager for the home kitchen.
+- Single-container deployment, runs on SQLite or PostgreSQL
+- User accounts with admin approval for self-registration
+- SvelteKit frontend · FastAPI backend · Docker
+
+**IdentityCore** 🔒 · *since January 2026* – a Minecraft plugin (Paper 1.21 – 26.2) for switching between separate player profiles.
+- Each profile keeps its own inventory, armor, ender chest, XP, health and position
+- In-game menu to create, rename, delete and preview profiles, plus deletion backups and restore
+- Shared profiles across linked accounts, optional LuckPerms and Minepacks integration
+- Java · Paper API · *free public release planned*
+
+<sub>🔒 Private repositories – happy to show them on request.</sub>
 
 
-<!--
+
+<!---
+### 🌍 Open Source
+
+- **[paperless-telegram-bot](https://github.com/GeiserX/paperless-telegram-bot)** – manage Paperless-NGX documents via Telegram.
+  My contribution: [let the uploader choose the document owner](https://github.com/GeiserX/paperless-telegram-bot/pulls?q=author%3AFladChris)
+
 ---
-### Open Source
 
-Currently exploring contributions to:
-
-[![AdventureLog](https://img.shields.io/badge/AdventureLog-Contributor%20in%20progress-181717?logo=github&logoColor=white)](https://github.com/seanmorley15/AdventureLog)
-
----
-
-### Coding Practice
-
-[![Codewars-Badge](https://www.codewars.com/users/FladChris/badges/micro)](https://www.codewars.com/users/FladChris)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+[![Codewars](https://www.codewars.com/users/FladChris/badges/micro)](https://www.codewars.com/users/FladChris)
