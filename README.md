@@ -16,7 +16,6 @@ I'm Christian, a backend-focused developer building self-hosted tools, web apps 
 
 **HomeOfKitchen** 🔒 · *since March 2026* – a self-hosted recipe manager for the home kitchen.
 - Single-container deployment, runs on SQLite or PostgreSQL
-- User accounts with admin approval for self-registration
 - SvelteKit frontend · FastAPI backend · Docker
 
 **IdentityCore** 🔒 · *since January 2026* – a Minecraft plugin (Paper 1.21 – 26.2) for switching between separate player profiles.
