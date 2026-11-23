@@ -14,9 +14,10 @@ I'm Christian, a backend-focused developer building self-hosted tools, web apps 
 
 ### 🔧 What I'm Building
 
-**HomeOfKitchen** 🔒 · *since March 2026* – a self-hosted recipe manager for the home kitchen.
-- Single-container deployment, runs on SQLite or PostgreSQL
-- SvelteKit frontend · FastAPI backend · Docker
+**[Heritage Kitchen](https://github.com/FladChris/HeritageKitchen)** · a self-hosted family cookbook.
+- Recipes, photos and family stories, with offline access through an installed PWA
+- Single Docker container, SQLite or PostgreSQL, German interface
+- SvelteKit · FastAPI · Python
 
 **IdentityCore** 🔒 · *since January 2026* – a Minecraft plugin (Paper 1.21 – 26.2) for switching between separate player profiles.
 - Each profile keeps its own inventory, armor, ender chest, XP, health and position
@@ -24,7 +25,7 @@ I'm Christian, a backend-focused developer building self-hosted tools, web apps 
 - Shared profiles across linked accounts, optional LuckPerms and Minepacks integration
 - Java · Paper API · *free public release planned*
 
-<sub>🔒 Private repositories – happy to show them on request.</sub>
+<sub>IdentityCore is currently private — happy to show it on request.</sub>
 
 ### 🌍 Open Source
 
